@@ -160,8 +160,17 @@ This is `.alert-dark`
 
 ## Badges
 
+All badges require `.badge` class.
+
 {: .badge .badge-secondary}
-New {: .badge .badge-success}Success!
+New 
+
+{: .badge .badge-success}
+Success!
+
+### Badge as links
+
+[`.badge-primary'](#){: .badge .badge-primary}
 
 ## Images
 
