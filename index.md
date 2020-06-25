@@ -129,6 +129,14 @@ Dog
   Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.
 </p>
 
+## Images
+
+[BLM](BLM.jpg)
+
+With `.img-fluid` class:
+
+[BLM](BLM.jpg){: .img-fluid}
+
 ## Tables
 
 Type-A | Type-B | Type-C | Type-D
