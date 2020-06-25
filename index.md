@@ -68,13 +68,17 @@ All right folks. These resources should keep you busy for a while already. So un
 * Again a third item
   *  A sub-item
   * Another one
+* Test to see if unindent alignment is legit
+* And... it seems that it really is!
   
 1. Having fun with ordered list
 1. Another list item
 1. Yet another one
    1. A nested item (three spaces to indent)
    1. Just checking to see if alignment is correct
-   
+1. Testing to see if unindent alignment is good
+1. And everything seems good!
+
 Cat
 : A feline animal (with `: `, item separated by a blank line)
 
