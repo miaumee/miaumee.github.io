@@ -20,7 +20,7 @@ All right folks. These resources should keep you busy for a while already. So un
 
 <div class="container">
   <div class="row">
-    <div class="col-sm" markdown="1"> **Column 1** </div>
+    <div class="col-sm"> <strong>Column 1</strong> </div>
     <div class="col-sm"> Column 2</div>
     <div class="col-sm"> Column 3</div>
   </div>
