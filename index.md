@@ -31,7 +31,7 @@ All right folks. These resources should keep you busy for a while already. So un
 <div class="container">
   <div class="row">
     <div class="col"> Column 1 </div>
-    <div class="col"> Column 2</div>
+    <div class="col"> Column 2 (Width is auto-adjusted) </div>
     <div class="col"> Column 3</div>
   </div>
 </div>
