@@ -168,6 +168,11 @@ New
 {: .badge .badge-success}
 Success!
 
+Badge as a pill using `.badge-pill` class
+
+Warning!
+{: .badge .badge-pill .badge-warning}
+
 ### Badge as links
 
 [`.badge-primary'](#){: .badge .badge-primary}
