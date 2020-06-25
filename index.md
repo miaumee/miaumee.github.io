@@ -215,6 +215,11 @@ With `.btn-group-lg`
   <button class="btn btn-success"> Menu 1</button>
   <button class="btn btn-success"> Menu 2</button>
   <button class="btn btn-primary"> Menu 3</button>
+</div> 
+<div class="btn btn-group-sm" role="group" aria-label="Some Menu">
+  <button class="btn btn-success"> Menu 1</button>
+  <button class="btn btn-success"> Menu 2</button>
+  <button class="btn btn-primary"> Menu 3</button>
 </div>
 
 ## Images
