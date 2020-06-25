@@ -18,11 +18,21 @@ All right folks. These resources should keep you busy for a while already. So un
 
 ### Heading 3
 
+<h3>
+  Fancy display heading
+  <small class="text-muted">With faded secondary text</small>
+</h3>
+
 #### Heading 4
 
 ##### Heading 5
 
 ###### Heading 6
+
+<h1 class="display-1">Display 1</h1>
+<h1 class="display-2">Display 2</h1>
+<h1 class="display-3">Display 3</h1>
+<h1 class="display-4">Display 4</h1>
 
 ## Columns
 
