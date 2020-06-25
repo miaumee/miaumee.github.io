@@ -66,6 +66,6 @@ All right folks. These resources should keep you busy for a while already. So un
    1. Just checking to see if alignment is correct
    
 Cat
-   A feline animal
+  A feline animal
 Dog
-   A canine animal
+  A canine animal
