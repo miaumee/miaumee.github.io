@@ -152,9 +152,6 @@ This is `.alert-light`
 This is `.alert-dark`
 {: .alert .alert-dark}
 
-With `.alert-dismissible`, alerts can be closed.
-{: .alert .alert-dismissible}
-
 ### `.lead` class
 
 <p class="lead">
