@@ -35,3 +35,18 @@ All right folks. These resources should keep you busy for a while already. So un
     <div class="col"> Column 3</div>
   </div>
 </div>
+
+## Specify 4 columns with `.row-cols-4`
+
+<div class="container">
+  <div class="row row-cols-4">
+    <div class="col"> Column 1 </div>
+    <div class="col"> Column 2 (Width is auto-adjusted) </div>
+    <div class="col"> Column 3</div>
+    <div class="col"> Column 4</div>
+    <div class="col"> Column 1 </div>
+    <div class="col"> Column 2 (Width is auto-adjusted) </div>
+    <div class="col"> Column 3</div>
+    <div class="col"> Column 4</div>
+  </div>
+</div>
