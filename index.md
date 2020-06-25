@@ -78,3 +78,9 @@ Dog
   margin-bottom: 1rem;
 }
 ```
+## Tables
+
+Type-A | Type-B | Type-C | Type-D
+------ | ------ | ------ | ------
+John | Mary | Abraham | Becky
+
