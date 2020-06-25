@@ -160,7 +160,8 @@ This is `.alert-dark`
 
 ## Badges
 
-{: .badge .badge-secondary}New
+{: .badge .badge-secondary}
+New
 
 ## Images
 
