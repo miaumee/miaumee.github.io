@@ -184,6 +184,13 @@ Type-A | Type-B | Type-C | Type-D
 John | Mary | Abraham | Becky
 {: .table .table-sm}
 
+Using `.table-responsive`
+
+Type-A | Type-B | Type-C | Type-D | Type-E | Type-F | Type-G | Type-H
+------ | ------ | ------ | ------ | ------ | ------ | ------ | ------
+John | Mary | Abraham | Becky | Carla | Duncan | Ernie | Fisher
+{: .table .table-responsive}
+
 <form>
   <fieldset>
     <legend>A Very Cool Form</legend>
