@@ -113,7 +113,7 @@ Dog
 > But I ain't seen anything yet...
 
 > This is going to be from a separate paragraph.
-{.blockquote}
+{: .blockquote}
 
 ### `.lead` class
 
