@@ -137,6 +137,13 @@ With `.img-fluid` class:
 
 ![BLM](/images/BLM.jpg){: .img-fluid}
 
+### Full-fledged figures
+
+<figure class="figure">
+  <img src="/images/BLM.jpg" class="figure-img img-fluid rounded">
+  <figcaption class="figure-caption text-center">Mathematician's wordplay.</figcaption>
+</figure>
+
 ## Tables
 
 Need `.table` for all tables. `.table-dark` to invert colors. 
