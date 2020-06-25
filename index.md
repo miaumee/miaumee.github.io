@@ -249,7 +249,7 @@ With `.btn-group-vertical`
 - Text with `.card-text` class
 
 <div class="card">
-  <img src="images/BLM.jpg" width=50% class="card-imgtop" />
+  <img src="images/BLM.jpg" width="50%" class="card-imgtop" />
   <h5 class="card-title">Newest iPhone revealed</h5>
   <h6 class="card-subtitle">A unique experience</h6>
   <p class="card-text">Discover what a titanium-grade, bullet-proof telecommunication device is made of.</p>
