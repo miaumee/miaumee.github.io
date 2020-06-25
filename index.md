@@ -105,6 +105,6 @@ John | Mary | Abraham | Becky
     <p><label>Comment</label>
     <textarea></textarea></p>
     
-    <button>Submit</button>
+    <p><input type="button" value="Submit"></p>
   </fieldset>
 </form>
