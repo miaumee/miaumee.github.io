@@ -26,7 +26,7 @@ All right folks. These resources should keep you busy for a while already. So un
   </div>
 </div>
 
-### Any columns (`.containder` > `.row` > `col`)
+### Any columns (`.container` > `.row` > `.col`)
 
 <div class="container">
   <div class="row">
