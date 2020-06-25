@@ -91,5 +91,6 @@ John | Mary | Abraham | Becky
     <input type="text" placeholder="John"></input>
     <label>Email Address</label>
     <input type="text" placeholder="abc@def.com"></input>
+    <button>Submit</button>
   </fieldset>
 </form>
