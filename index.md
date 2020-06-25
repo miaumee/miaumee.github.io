@@ -112,7 +112,7 @@ Dog
 > A picture is worth a thousand words.
 > But I ain't seen anything yet...
 
-> This is going to be from a separate paragraph.
+> This is going to be from a separate paragraph with `.blockquote` class.
 {: .blockquote}
 
 ### `.lead` class
