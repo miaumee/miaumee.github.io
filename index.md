@@ -84,3 +84,12 @@ Type-A | Type-B | Type-C | Type-D
 ------ | ------ | ------ | ------
 John | Mary | Abraham | Becky
 
+<form>
+  <fieldset>
+    <legend>A Very Cool Form</legend>
+    <label>Name</label>
+    <input type="text" placeholder="John"></input>
+    <label>Email Address</label>
+    <input type="text" placeholder="abc@def.com"></input>
+  </fieldset>
+</form>
