@@ -14,6 +14,16 @@ Welcome! This site is an attempt to feature some of my favorite math resources o
 All right folks. These resources should keep you busy for a while already. So until next time and may Math be your lord and shepherd many years down the road!
 {: .text-danger}
 
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+
 ## Columns
 
 ### 3 Columns
