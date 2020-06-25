@@ -16,7 +16,7 @@ All right folks. These resources should keep you busy for a while already. So un
 
 ## Text Ornament
 
-**Bold text** makes *emphasize* or ~~deleted~~ text to shame. <ins>Underline</ins> using `<ins>`. [link](#) works as usual.
+**Bold text** makes *emphasize* or ~~deleted~~ text to shame. <ins>Underline</ins> using `<ins>` and <mark>highlight</mark> with `<mark>`. [link](#) works as usual.
 
 ## Heading 2
 
