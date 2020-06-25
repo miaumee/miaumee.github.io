@@ -67,6 +67,7 @@ All right folks. These resources should keep you busy for a while already. So un
    
 Cat
 : A feline animal
+
 Dog
 : A canine animal
 
