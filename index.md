@@ -175,7 +175,9 @@ Warning!
 
 ### Badge as links
 
-[`.badge-primary'](){: .badge .badge-primary} [`.badge-secondary'](){: .badge .badge-secondary} [`.badge-success'](#){: .badge .badge-success} [`.badge-warning'](#){: .badge .badge-warning} [`.badge-danger'](#){: .badge .badge-danger} [`.badge-info'](#){: .badge .badge-info} 
+[`.badge-primary'](){: .badge .badge-primary} [`.badge-secondary'](){: .badge .badge-secondary} 
+
+[`.badge-success'](#){: .badge .badge-success} [`.badge-warning'](#){: .badge .badge-warning} [`.badge-danger'](#){: .badge .badge-danger} [`.badge-info'](#){: .badge .badge-info} 
 
 ## Images
 
