@@ -211,7 +211,7 @@ Wrap buttons within a `div` with `.btn-group` class
 
 With `.btn-group-lg` 
 
-<div class="btn-group-lg" role="group" aria-label="Some Menu">
+<div class="btn btn-group-lg" role="group" aria-label="Some Menu">
   <button class="btn btn-success"> Menu 1</button>
   <button class="btn btn-success"> Menu 2</button>
   <button class="btn btn-primary"> Menu 3</button>
