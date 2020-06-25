@@ -131,6 +131,27 @@ The class `.alert` is needed for all alerts.
 This is `.alert-primary`
 {: .alert .alert-primary}
 
+This is `.alert-secondary`
+{: .alert .alert-secondary}
+
+This is `.alert-success`
+{: .alert .alert-success}
+
+This is `.alert-warning`
+{: .alert .alert-warning}
+
+This is `.alert-danger`
+{: .alert .alert-danger}
+
+This is `.alert-info`
+{: .alert .alert-info}
+
+This is `.alert-light`
+{: .alert .alert-light}
+
+This is `.alert-dark`
+{: .alert .alert-dark}
+
 ### `.lead` class
 
 <p class="lead">
