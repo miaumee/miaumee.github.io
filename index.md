@@ -1,5 +1,6 @@
 ---
 layout: default
+title: The World of Mathematics
 ---
 
 # The World of Mathematics
