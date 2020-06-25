@@ -25,3 +25,13 @@ All right folks. These resources should keep you busy for a while already. So un
     <div class="col-sm"> Column 3</div>
   </div>
 </div>
+
+### Any columns (`.containder` > `.row` > `col`)
+
+<div class="container">
+  <div class="row">
+    <div class="col"> <strong>Column 1</strong> </div>
+    <div class="col"> Column 2</div>
+    <div class="col"> Column 3</div>
+  </div>
+</div>
