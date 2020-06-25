@@ -186,6 +186,8 @@ All buttons require `.btn` class. Otherwise similar to badges
 
 ## Button Groups
 
+Wrap buttons within a `div` with `.btn-group` class
+
 <div class="btn-group" role="group" aria-label="Some Menu">
   <button class="btn btn-success"> Menu 1</button>
   <button class="btn btn-success"> Menu 2</button>
@@ -193,11 +195,11 @@ All buttons require `.btn` class. Otherwise similar to badges
 </div>
 
 <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
-  <button type="button" class="btn btn-secondary">1</button>
+  <button type="button" class="btn btn-primary">1</button>
   <button type="button" class="btn btn-secondary">2</button>
 
   <div class="btn-group" role="group">
-    <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <button id="btnGroupDrop1" type="button" class="btn btn-warning dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
       Dropdown
     </button>
     <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
@@ -205,6 +207,14 @@ All buttons require `.btn` class. Otherwise similar to badges
       <a class="dropdown-item" href="#">Dropdown link</a>
     </div>
   </div>
+</div>
+
+With `.btn-group-lg` 
+
+<div class="btn-group-lg" role="group" aria-label="Some Menu">
+  <button class="btn btn-success"> Menu 1</button>
+  <button class="btn btn-success"> Menu 2</button>
+  <button class="btn btn-primary"> Menu 3</button>
 </div>
 
 ## Images
