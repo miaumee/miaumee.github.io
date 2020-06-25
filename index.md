@@ -139,6 +139,8 @@ With `.img-fluid` class:
 
 ## Tables
 
+Need `.table` for all tables. `.table-dark` to invert colors. 
+
 Type-A | Type-B | Type-C | Type-D
 ------ | ------ | ------ | ------
 John | Mary | Abraham | Becky
@@ -147,7 +149,7 @@ John | Mary | Abraham | Becky
 Type-A | Type-B | Type-C | Type-D
 ------ | ------ | ------ | ------
 John | Mary | Abraham | Becky
-{: .table-dark}
+{: .table .table-dark}
 
 <form>
   <fieldset>
