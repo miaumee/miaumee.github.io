@@ -151,6 +151,18 @@ Type-A | Type-B | Type-C | Type-D
 John | Mary | Abraham | Becky
 {: .table .table-dark}
 
+Using `.thead-light` and `.thead-dark`
+
+Type-A | Type-B | Type-C | Type-D
+------ | ------ | ------ | ------
+John | Mary | Abraham | Becky
+{.table .thead-light}
+
+Type-A | Type-B | Type-C | Type-D
+------ | ------ | ------ | ------
+John | Mary | Abraham | Becky
+{.table .thead-dark}
+
 <form>
   <fieldset>
     <legend>A Very Cool Form</legend>
