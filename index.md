@@ -12,3 +12,4 @@ Welcome! This site is an attempt to feature some of my favorite math resources o
 - [**Introduction to Higher Mathematics**](https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX): When it comes to math beyond the K-12 level, videos are often not the type of modality. But alas, there are times where math videos can strike gold, and this is one of them. Organized as a 19-part series, this resource will venture into an abstract world which you might or might not have seen. From proof, logic, set theory, relation to number theory, modular arithmetic, topology and ring theory, it seems that there's enough of mathematical goodness for just about everyone.
 
 All right folks. These resources should keep you busy for a while already. So until next time and may Math be your lord and shepherd many years down the road!
+{: .text-danger}
