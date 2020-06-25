@@ -110,6 +110,12 @@ Dog
 
 > This is going to be from a separate paragraph.
 
+### `.lead` class
+
+<p class="lead">
+  Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.
+</p>
+
 ## Tables
 
 Type-A | Type-B | Type-C | Type-D
