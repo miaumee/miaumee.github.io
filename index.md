@@ -36,7 +36,7 @@ All right folks. These resources should keep you busy for a while already. So un
   </div>
 </div>
 
-## Specify 4 columns with `.row-cols-4`
+### Specify 4 columns with `.row-cols-4`
 
 <div class="container">
   <div class="row row-cols-4">
@@ -50,3 +50,22 @@ All right folks. These resources should keep you busy for a while already. So un
     <div class="col"> Column 4</div>
   </div>
 </div>
+
+## Lists
+
+* A first item
+* A second item
+* Again a third item
+  *  A sub-item
+  * Another one
+  
+1. Having fun with ordered list
+1. Another list item
+1. Yet another one
+   1. A nested item (three spaces to indent)
+   1. Just checking to see if alignment is correct
+   
+Cat
+   A feline animal
+Dog
+   A canine animal
