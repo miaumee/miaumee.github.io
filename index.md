@@ -81,8 +81,10 @@ Dog
 
 ## Blockquotes
 
-> A picture is worth a thousand words
+> A picture is worth a thousand words.
 > But I ain't seen anything yet...
+
+> This is going to be from a separate paragraph.
 
 ## Tables
 
