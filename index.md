@@ -69,3 +69,11 @@ Cat
 : A feline animal
 Dog
 : A canine animal
+
+## Preformatted Text
+
+```
+.example-element {
+  margin-bottom: 1rem;
+}
+```
