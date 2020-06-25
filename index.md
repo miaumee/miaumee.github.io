@@ -131,11 +131,11 @@ Dog
 
 ## Images
 
-[BLM](/images/BLM.jpg)
+![BLM](/images/BLM.jpg)
 
 With `.img-fluid` class:
 
-[BLM](/images/BLM.jpg){: .img-fluid}
+![BLM](/images/BLM.jpg){: .img-fluid}
 
 ## Tables
 
