@@ -168,15 +168,21 @@ With `.table-striped`
 Type-A | Type-B | Type-C | Type-D
 ------ | ------ | ------ | ------
 John | Mary | Abraham | Becky
-{: .table-striped}
+{: .table .table-striped}
 
 With `.table-hover`
 
 Type-A | Type-B | Type-C | Type-D
 ------ | ------ | ------ | ------
 John | Mary | Abraham | Becky
-{: .table-hover}
+{: .table .table-hover}
 
+Small table with `.table-sm`
+
+Type-A | Type-B | Type-C | Type-D
+------ | ------ | ------ | ------
+John | Mary | Abraham | Becky
+{: .table .table-sm}
 
 <form>
   <fieldset>
