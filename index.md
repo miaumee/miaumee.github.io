@@ -164,6 +164,7 @@ John | Mary | Abraham | Becky
 {: .table .thead-dark}
 
 With `.table-striped`
+
 Type-A | Type-B | Type-C | Type-D
 ------ | ------ | ------ | ------
 John | Mary | Abraham | Becky
