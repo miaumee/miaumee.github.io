@@ -180,9 +180,9 @@ Warning!
 
 ### Buttons
 
-All buttons require `.button` class.
+All buttons require `.btn` class.
 
-[.btn-primary](#){.button .button-primary}
+[.btn-primary](#){.btn .btn-primary}
 
 ## Images
 
