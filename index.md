@@ -142,6 +142,12 @@ With `.img-fluid` class:
 Type-A | Type-B | Type-C | Type-D
 ------ | ------ | ------ | ------
 John | Mary | Abraham | Becky
+{: .table}
+
+Type-A | Type-B | Type-C | Type-D
+------ | ------ | ------ | ------
+John | Mary | Abraham | Becky
+{: .table-dark}
 
 <form>
   <fieldset>
