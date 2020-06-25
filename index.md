@@ -87,12 +87,24 @@ John | Mary | Abraham | Becky
 <form>
   <fieldset>
     <legend>A Very Cool Form</legend>
-    <label>Name</label>
-    <input type="text" placeholder="John">
-    <label>Email Address</label>
-    <input type="text" placeholder="abc@def.com">
-    <label>Comment</label>
-    <textarea></textarea>
+    
+    <p><label>Name</label>
+    <input type="text" placeholder="John"></p>
+    
+    <p><label>Email Address</label>
+    <input type="text" placeholder="abc@def.com"></p>
+    
+    <p><label>Date</label>
+    <input type="date"></p>
+    
+    <p><label>Time</label>
+    <input type="time"></p>
+    
+    <p><input type="checkbox" value="0">Subscribe me to the newsletter!</p>
+    
+    <p><label>Comment</label>
+    <textarea></textarea></p>
+    
     <button>Submit</button>
   </fieldset>
 </form>
