@@ -13,3 +13,15 @@ Welcome! This site is an attempt to feature some of my favorite math resources o
 
 All right folks. These resources should keep you busy for a while already. So until next time and may Math be your lord and shepherd many years down the road!
 {: .text-danger}
+
+## Columns
+
+### 3 Columns
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm" markdown="1"> **Column 1** </div>
+    <div class="col-sm"> Column 2</div>
+    <div class="col-sm"> Column 3</div>
+  </div>
+</div>
