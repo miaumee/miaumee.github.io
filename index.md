@@ -156,18 +156,25 @@ Using `.thead-light` and `.thead-dark`
 Type-A | Type-B | Type-C | Type-D
 ------ | ------ | ------ | ------
 John | Mary | Abraham | Becky
-{.table .thead-light}
+{: .table .thead-light}
 
 Type-A | Type-B | Type-C | Type-D
 ------ | ------ | ------ | ------
 John | Mary | Abraham | Becky
-{.table .thead-dark}
+{: .table .thead-dark}
 
 With `.table-striped`
 Type-A | Type-B | Type-C | Type-D
 ------ | ------ | ------ | ------
 John | Mary | Abraham | Becky
 {: .table-striped}
+
+With `.table-hover`
+
+Type-A | Type-B | Type-C | Type-D
+------ | ------ | ------ | ------
+John | Mary | Abraham | Becky
+{: .table-hover}
 
 
 <form>
