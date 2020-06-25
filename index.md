@@ -88,9 +88,11 @@ John | Mary | Abraham | Becky
   <fieldset>
     <legend>A Very Cool Form</legend>
     <label>Name</label>
-    <input type="text" placeholder="John"></input>
+    <input type="text" placeholder="John">
     <label>Email Address</label>
-    <input type="text" placeholder="abc@def.com"></input>
+    <input type="text" placeholder="abc@def.com">
+    <label>Comment</label>
+    <textarea></textarea>
     <button>Submit</button>
   </fieldset>
 </form>
