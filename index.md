@@ -123,6 +123,14 @@ Dog
 > This is going to be from a separate paragraph with `.blockquote` class.
 {: .blockquote}
 
+## Colorboxes
+
+The class `.alert` is needed for all alerts.
+{: .alert}
+
+This is `.alert-primary`
+{: .alert .alert-primary}
+
 ### `.lead` class
 
 <p class="lead">
