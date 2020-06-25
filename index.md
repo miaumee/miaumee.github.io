@@ -180,9 +180,9 @@ Warning!
 
 ### Buttons
 
-All buttons require `.btn` class.
+All buttons require `.btn` class. Otherwise similar to badges
 
-[.btn-primary](#){.btn .btn-primary}
+[.btn-primary](#){: .btn .btn-primary} [.btn-secondary](#){: .btn .btn-secondary} 
 
 ## Images
 
