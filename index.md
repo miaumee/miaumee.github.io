@@ -182,7 +182,7 @@ Warning!
 
 All buttons require `.btn` class. Otherwise similar to badges
 
-[.btn-primary](#){: .btn .btn-primary} [.btn-secondary](#){: .btn .btn-secondary} 
+[.btn-primary](#){: .btn .btn-primary} [.btn-secondary](#){: .btn .btn-secondary} [.btn-outline-success](#){: .btn .btn-outline-success} 
 
 ## Images
 
