@@ -78,6 +78,12 @@ Dog
   margin-bottom: 1rem;
 }
 ```
+
+## Blockquotes
+
+> A picture is worth a thousand words
+> But I ain't seen anything yet...
+
 ## Tables
 
 Type-A | Type-B | Type-C | Type-D
