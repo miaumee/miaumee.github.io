@@ -18,6 +18,14 @@ All right folks. These resources should keep you busy for a while already. So un
 
 **Bold text** makes *emphasize* or ~~deleted~~ text to shame. <u>Underline</u> using `<u>`, <mark>highlight</mark> with `<mark>` and <small>make texts smaller</small> with `<small>`. [link](#) works as usual.
 
+## Text Alignment
+
+This paragraph is centered using `.text-center` class.
+{: .text-center}
+
+This paragraph is aligned to the right using `.text-right` class.
+{: .text-right}
+
 ## Heading 2
 
 ### Heading 3
