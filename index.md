@@ -175,10 +175,8 @@ Warning!
 
 ### Badge as links
 
-{: .badge .badge-primary}[.badge-primary]()
-[`.badge-secondary'](){: .badge .badge-secondary} 
-
-[`.badge-success'](#){: .badge .badge-success} [`.badge-warning'](#){: .badge .badge-warning} [`.badge-danger'](#){: .badge .badge-danger} [`.badge-info'](#){: .badge .badge-info} 
+[`.badge-primary`](){: .badge .badge-primary} [`.badge-secondary`](){: .badge .badge-secondary}
+[`.badge-success`](#){: .badge .badge-success} [`.badge-warning`](#){: .badge .badge-warning} [`.badge-danger`](#){: .badge .badge-danger} [`.badge-info`](#){: .badge .badge-info} [`.badge-light`](#){: .badge .badge-light} [`.badge-dark`](#){: .badge .badge-dark}  
 
 ## Images
 
