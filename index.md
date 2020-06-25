@@ -14,6 +14,10 @@ Welcome! This site is an attempt to feature some of my favorite math resources o
 All right folks. These resources should keep you busy for a while already. So until next time and may Math be your lord and shepherd many years down the road!
 {: .text-danger}
 
+## Text Ornament
+
+**Bold text** makes *emphasize* or ~~deleted~~ text to shame. <ins>Underline</ins> using `<ins>`. [link](#) works as usual.
+
 ## Heading 2
 
 ### Heading 3
