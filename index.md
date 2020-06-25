@@ -242,7 +242,8 @@ With `.btn-group-vertical`
 
 ## Cards
 
-- Image with classes `.card-img-top`
+- Outermost div requires `.card` class
+- Image with class `.card-img-top`
 - Title with `.card-title` class
 - Subtitle with `.card-subtitle` class
 - Text with `.card-text` class
@@ -250,7 +251,7 @@ With `.btn-group-vertical`
 <div class="card">
   <img src="images/BLM.jpg" class="card-imgtop" />
   <h5 class="card-title">Newest iPhone revealed</h5>
-  <p class="card-subtitle">A unique experience</p>
+  <h6 class="card-subtitle">A unique experience</h6>
   <p class="card-text">Discover what a titanium-grade, bullet-proof telecommunication device is made of.</p>
   <a class="btn btn-primary">Learn More</a>
 </div>
