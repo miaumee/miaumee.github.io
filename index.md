@@ -161,7 +161,7 @@ This is `.alert-dark`
 ## Badges
 
 {: .badge .badge-secondary}
-New
+New {: .badge .badge-success}Success!
 
 ## Images
 
