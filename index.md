@@ -63,6 +63,10 @@ For [colored links](){: .link-secondary}, use `.link-secondary` or the like inst
 For colored-background texts, use `bg-success` `.text-white` and the like.
 {: .p-3 .bg-success .text-white}
 
+## Paddings
+
+<span class="p-1 bg-primary">.p-1 class</span> <span class="p-2 bg-secondary">.p-2 class</span> <span class="p-3 bg-success">.p-3 class</span> <span class="p-4 bg-warning">.p-4 class</span> <span class="p-5 bg-danger">.p-5 class</span>
+
 
 ## Text Alignment
 
