@@ -220,7 +220,7 @@ Dog
 > But I ain't seen anything yet...
 
 > This is going to be from a separate paragraph with `.blockquote` class.
-{: .blockquote
+{: .blockquote}
 
 <figure class="text-right">
   <blockquote class="blockquote">
