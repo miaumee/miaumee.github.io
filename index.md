@@ -71,7 +71,29 @@ Use `.d-inline` to display as inline.
 Use `.d-block` to display as block.
 {: .d-block .bg-secondary .text-white}
 
+For flexboxes, use `.d-flex`
+
 Use `.d-none` to hide on all devices
+
+## Width and Height
+
+This is `w-25`
+{: .bg-primary .p-3 .w-25}
+
+This is `w-50`
+{: .bg-primary .p-3 .w-50}
+
+This is `w-75`
+{: .bg-primary .p-3 .w-75}
+
+This is `w-75`
+{: .bg-primary .p-3 .w-75}
+
+This is `w-auto`
+{: .bg-primary .p-3 .w-auto}
+
+This is `h-25`
+{: .bg-primary .p-3 .h-25}
 
 ## Markdown
 
