@@ -311,7 +311,7 @@ With `.img-fluid` class:
 ## Dropdown
 
 <div class="btn-group">
-  <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <button type="button" class="btn btn-lg btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     Other Functions
   </button>
   <div class="dropdown-menu">
