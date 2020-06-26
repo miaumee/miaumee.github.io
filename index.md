@@ -32,6 +32,9 @@ All right folks. These resources should keep you busy for a while already. So un
 This paragraph is centered using `.text-center` class.
 {: .text-center}
 
+Similar, but with the `.center` class.
+{: .center}
+
 This paragraph is aligned to the right using `.text-right` class.
 {: .text-right}
 
