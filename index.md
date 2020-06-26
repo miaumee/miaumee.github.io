@@ -267,7 +267,7 @@ Use `active` class to highlight the default item
   <a class="list-group-item list-group-item-action" data-toggle="list" href="#messages" role="tab">Messages</a>
   <a class="list-group-item list-group-item-action" data-toggle="list" href="#settings" role="tab">Settings</a>
 </div>
-  </div>
+</div>
 
 <div class="col-8">
 <div class="tab-content">
@@ -276,7 +276,7 @@ Use `active` class to highlight the default item
   <div class="tab-pane" id="messages" role="tabpanel">Someone has sent you a message.</div>
   <div class="tab-pane" id="settings" role="tabpanel">Your configuration in more details.</div>
 </div>
-<\div>
+</div>
 </div>
 
 ## Cards
