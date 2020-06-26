@@ -249,8 +249,9 @@ With `.btn-group-vertical`
     <small>No really. And you should try it.</small>
   </a>
   <a class="list-group-item">
-    
-    
+     <h5>How cool is HTML5 Boilerplate?</h5>
+    <p>A standalone HTML framework for creating responsive websites without bloat.</p>
+    <small>Yes. It's a higher-level framework. But awesome nevertheless.</small>
   </a>
 </div>
 
