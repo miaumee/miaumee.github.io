@@ -106,8 +106,8 @@ This is `w-50`
 This is `w-75`
 {: .bg-primary .p-3 .w-75}
 
-This is `w-75`
-{: .bg-primary .p-3 .w-75}
+This is `w-100`
+{: .bg-primary .p-3 .w-100}
 
 This is `w-auto`
 {: .bg-primary .p-3 .w-auto}
