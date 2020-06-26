@@ -284,8 +284,8 @@ Warning!
 
 ### Badge as links
 
-[`.badge-primary`](){: .badge .bg-primary} [`.badge-secondary`](){: .badge .badge-secondary}
-[`.badge-success`](#){: .badge .badge-success} [`.badge-warning`](#){: .badge .badge-warning} [`.badge-danger`](#){: .badge .badge-danger} [`.badge-info`](#){: .badge .badge-info} [`.badge-light`](#){: .badge .badge-light} [`.badge-dark`](#){: .badge .badge-dark}  
+[`.badge-primary`](){: .badge .bg-primary} [`.badge-secondary`](){: .badge .bg-secondary}
+[`.badge-success`](#){: .badge .bg-success} [`.badge-warning`](#){: .badge .bg-warning} [`.badge-danger`](#){: .badge .bg-danger} [`.badge-info`](#){: .badge .bg-info} [`.badge-light`](#){: .badge .bg-light} [`.badge-dark`](#){: .badge .bg-dark}  
 
 ### Buttons
 
