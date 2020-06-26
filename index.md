@@ -60,6 +60,14 @@ For [colored links](){: .link-secondary}, use `.link-secondary` or the like inst
 For colored-background texts, use `bg-success` `.text-white` and the like.
 {: .p-3 .bg-success .text-white}
 
+This is .text-uppercase
+{: .text-uppercase} 
+This is .text-lowercase.
+{: .text-lowercase}
+This is .text-capitalize
+{: .text-capitalize}
+
+
 ## Paddings
 
 <span class="p-1 bg-primary text-white">.p-1 class</span> <span class="p-2 bg-secondary text-white">.p-2 class</span> <span class="p-3 bg-success text-white">.p-3 class</span> <span class="p-4 bg-warning text-white">.p-4 class</span> <span class="p-5 bg-danger text-white">.p-5 class</span>
