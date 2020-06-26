@@ -446,6 +446,8 @@ Use `data-toggle:"tooltip"` and `title="Tooltip text"`.
 
 <a href="#" data-toggle="tooltip" title="Can you see me? ;)">Hover on me to see surprises!</a>
 
+<button type="button" class="btn btn-success" data-toggle="tooltip" title="Gotta catch them all!">Hover On Me!</button>
+
 ## Borders
 
 All borders need the `.border` class.
