@@ -271,20 +271,20 @@ Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis moll
 
 All badges require `.badge` class.
 
-{: .badge .badge-secondary}
+{: .badge .bg-secondary}
 New 
 
-{: .badge .badge-success}
+{: .badge .bg-success}
 Success!
 
 Badge as a pill using `.badge-pill` class
 
 Warning!
-{: .badge .badge-pill .badge-warning}
+{: .badge .badge-pill .bg-warning}
 
 ### Badge as links
 
-[`.badge-primary`](){: .badge .badge-primary} [`.badge-secondary`](){: .badge .badge-secondary}
+[`.badge-primary`](){: .badge .bg-primary} [`.badge-secondary`](){: .badge .badge-secondary}
 [`.badge-success`](#){: .badge .badge-success} [`.badge-warning`](#){: .badge .badge-warning} [`.badge-danger`](#){: .badge .badge-danger} [`.badge-info`](#){: .badge .badge-info} [`.badge-light`](#){: .badge .badge-light} [`.badge-dark`](#){: .badge .badge-dark}  
 
 ### Buttons
