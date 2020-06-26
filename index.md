@@ -99,22 +99,22 @@ Use `.d-none` to hide on all devices
 ## Width and Height
 
 This is `w-25`
-{: .bg-primary .p-3 .w-25}
+{: .bg-primary .text-white .p-3 .w-25}
 
 This is `w-50`
-{: .bg-primary .p-3 .w-50}
+{: .bg-primary  .text-white .p-3 .w-50}
 
 This is `w-75`
-{: .bg-primary .p-3 .w-75}
+{: .bg-primary  .text-white .p-3 .w-75}
 
 This is `w-100`
-{: .bg-primary .p-3 .w-100}
+{: .bg-primary  .text-white .p-3 .w-100}
 
 This is `w-auto`
-{: .bg-primary .p-3 .w-auto}
+{: .bg-primary  .text-white .p-3 .w-auto}
 
 This is `h-25`
-{: .bg-primary .p-3 .h-25}
+{: .bg-primary  .text-white .p-3 .h-25}
 
 ## Markdown
 
