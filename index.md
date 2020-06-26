@@ -408,5 +408,14 @@ John | Mary | Abraham | Becky | Carla | Duncan | Ernie | Fisher
 
 <div class="custom-control custom-switch">
   <input type="checkbox" class="custom-control-input" id="customSwitch1">
-  <label class="custom-control-label" for="customSwitch1">Activa Cache Browsing</label>
+  <label class="custom-control-label" for="customSwitch1">Activate Cache Browsing</label>
 </div>
+
+### Dropdown Menu
+
+<select class="custom-select">
+  <option selected>Windows 95</option>
+  <option value="1">Windows 98</option>
+  <option value="2">Windows 2000</option>
+  <option value="3">Windows XP</option>
+</select>
