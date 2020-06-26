@@ -305,6 +305,7 @@ With `.img-fluid` class:
 <div class="collapse" id="proof">
   <div class="card card-body">
     Here is the answer! Bingo!
+  </div>
 </div>
 
 ## Tables
