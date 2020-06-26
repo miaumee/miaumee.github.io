@@ -269,6 +269,15 @@ With `.btn-group-vertical`
   <button class="btn btn-primary">Learn More</button>
   </div>
 </div>
+<div class="card text-right" style="width:33%;">
+  <img src="images/BLM.jpg" class="card-img-top" />
+  <div class="card-body">
+  <h5 class="card-title">Newest iPhone revealed</h5>
+  <h6 class="card-subtitle">A unique experience</h6>
+  <p class="card-text">Discover what a titanium-grade, bullet-proof telecommunication device is made of.</p>
+  <button class="btn btn-primary">Learn More</button>
+  </div>
+</div>
 
 ## Images
 
