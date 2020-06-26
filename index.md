@@ -249,8 +249,8 @@ With `.btn-group-vertical`
 - Subtitle with `.card-subtitle` class
 - Text with `.card-text` class
 
-<div class="card" style="width:50%;">
-  <img src="images/BLM.jpg" width="auto" class="card-imgtop" />
+<div class="card" style="width:18rem;">
+  <img src="images/BLM.jpg" class="card-imgtop" />
   <div class="card-body">
   <h5 class="card-title">Newest iPhone revealed</h5>
   <h6 class="card-subtitle">A unique experience</h6>
