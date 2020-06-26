@@ -294,6 +294,19 @@ With `.img-fluid` class:
   <figcaption class="figure-caption text-center">Mathematician's wordplay.</figcaption>
 </figure>
 
+## Toggle
+
+- Button requires `data-toggle="collapse"` linking to an anchor
+- An answer div block with class `collapse` and anchor id
+
+<p>
+  <a class="btn btn-success" data-toggle="collapse" href="#proof">Show the Proof</a>
+</p>
+<div class="collapse" id="proof">
+  <div class="card card-body">
+    Here is the answer! Bingo!
+</div>
+
 ## Tables
 
 Need `.table` for all tables. `.table-dark` to invert colors. 
