@@ -255,7 +255,7 @@ Use `active` class to highlight the default item
     <p>A standalone HTML framework for creating responsive websites without bloat.</p>
     <small>Yes. It's a higher-level framework. But awesome nevertheless.</small>
   </a>
-</div
+</div>
   
 ## Tabs
 
