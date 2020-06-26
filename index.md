@@ -65,8 +65,14 @@ For colored-background texts, use `bg-success` `.text-white` and the like.
 
 ## Paddings
 
-<span class="p-1 bg-primary">.p-1 class</span> <span class="p-2 bg-secondary">.p-2 class</span> <span class="p-3 bg-success">.p-3 class</span> <span class="p-4 bg-warning">.p-4 class</span> <span class="p-5 bg-danger">.p-5 class</span>
+<span class="p-1 bg-primary text-white">.p-1 class</span> <span class="p-2 bg-secondary text-white">.p-2 class</span> <span class="p-3 bg-success text-white">.p-3 class</span> <span class="p-4 bg-warning text-white">.p-4 class</span> <span class="p-5 bg-danger text-white">.p-5 class</span> <span class="p-6 bg-info text-white">.p-6 class</span>
 
+## Display options
+
+Use `.d-inline` to display as inline.
+{: .d-inline}
+Use `.d-block` to display as block.
+{: .d-block}
 
 ## Text Alignment
 
