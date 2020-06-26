@@ -116,7 +116,7 @@ This is `w-auto`
 This is `h-25`
 {: .bg-primary  .text-white .p-3 .h-25}
 
-## Markdown
+## Embedding Markdown
 
 To enable embedding Markdown in HTML, use `{::options parse_block_html="true" /}`.
 
