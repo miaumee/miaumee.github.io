@@ -67,6 +67,18 @@ This is .text-lowercase.
 This is .text-capitalize
 {: .text-capitalize}
 
+### Font Weights
+
+.font-weight-lighter
+{: .font-weight-lighter}
+.font-weight-light
+{: .font-weight-light}
+.font-weight-normal
+{: .font-weight-normal}
+.font-weight-bold
+{: .font-weight-bold}
+.font-weight-bolder
+{: .font-weight-bolder}
 
 ## Paddings
 
