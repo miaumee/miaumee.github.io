@@ -449,9 +449,9 @@ Use class `.navbar-dark` and `bg-...` for added visual depth
 
 ## Tooltips
 
-Use `.tooltip-test` class within `a` tag.
+Use `data-toggle:"tooltip"` and `title="Tooltip text"`.
 
-<a href="#" class="tooltip-test" title="Can you see me? ;)">Hover on me to see surprises!</a>
+<a href="#" data-toggle="tooltip" title="Can you see me? ;)">Hover on me to see surprises!</a>
 
 ## Borders
 
