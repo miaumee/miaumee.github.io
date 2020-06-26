@@ -3,13 +3,6 @@ layout: default
 title: The World of Mathematics
 ---
 
-<script>
-var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-toggle="tooltip"]'))
-var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
-  return new bootstrap.Tooltip(tooltipTriggerEl)
-})
-</script>
-
 # The World of Mathematics
 
 Welcome! This site is an attempt to feature some of my favorite math resources on the Web, so without further ado, let's get started!
