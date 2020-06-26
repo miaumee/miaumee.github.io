@@ -283,7 +283,7 @@ With `.btn-group-vertical`
 
 <div class="jumbotron">
   <h1 class="display-4">Hello dude! (H1 heading)</h1>
-  <p class="lead">`.lead` paragraph: Once dead, the vampire has now been resurrected and is now very well alive!.</p>
+  <p class="lead"><code>.lead</code> paragraph: Once dead, the vampire has now been resurrected and is now very well alive!.</p>
   <hr class="my-4">
   <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
   <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
