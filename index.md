@@ -425,7 +425,7 @@ Use `.tooltip-test` class within `a` tag.
 
 ## Images
 
-![BLM](/images/BLM.jpg)
+![BLM](/images/BLM.jpg){: .opacity-0.5}
 
 Images as links in Markdown
 
