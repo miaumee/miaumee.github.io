@@ -303,6 +303,12 @@ Use `active` class to highlight the default item
    </div>
 </div>
 
+## Tooltips
+
+Use `.tooltip-test` class within `a` tag.
+
+<a href="#" class="tooltip-test" title="Can you see me? ;)">Hover on me to see surprises!</a>
+
 ## Cards
 
 - Outermost div requires `.card` class
