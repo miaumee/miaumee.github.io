@@ -60,6 +60,9 @@ colored texts
 
 For [colored links](){: .link-secondary}, use `.link-secondary` or the like instead.
 
+For colored-background texts, use `bg-success` and the like.
+{: .bg-success}
+
 
 ## Text Alignment
 
