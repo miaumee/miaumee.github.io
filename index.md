@@ -410,7 +410,7 @@ Use class `.navbar-dark` and `bg-...` for added visual depth
 
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#pop"> Pop Me Up!</button>
 
-<div class="modal fade" id="pop" tabindex="-1" role="dialog"> 
+<div class="modal fade" id="pop" tabindex="-1"> 
   
  <div class="modal-content">
  <div class="modal-header">
