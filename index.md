@@ -129,6 +129,9 @@ This paragraph is centered using `.text-center` class.
 This paragraph is aligned to the right using `.text-right` class.
 {: .text-right}
 
+<span class="align-top"> This is .align-top</span> <span class="align-middle">This is .align-middle</span> <span class="align-bottom">This is .align-bottom</span> 
+
+
 ## Heading 2 with `{: .text-primary .font-weight-bolder #abc}`
 {: .text-primary .font-weight-bolder #abc}
 
