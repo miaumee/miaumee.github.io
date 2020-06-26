@@ -427,6 +427,12 @@ Use `.tooltip-test` class within `a` tag.
 
 ![BLM](/images/BLM.jpg)
 
+Images as links in Markdown
+
+[![BLM](/images/BLM.jpg)](#)
+[![BLM](/images/BLM.jpg)](#)
+[![BLM](/images/BLM.jpg)](#)
+
 With `.img-fluid` class:
 
 ![BLM](/images/BLM.jpg){: .img-fluid}
