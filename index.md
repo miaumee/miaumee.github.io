@@ -279,6 +279,12 @@ Use `active` class to highlight the default item
 </div>
 </div>
 
+## Modal Popups
+
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#pop"> Pop Me Up!</button>
+
+<div class="modal fade" id="pop" tabindex="-1" role="dialog"> Hehehe </div>
+
 ## Cards
 
 - Outermost div requires `.card` class
