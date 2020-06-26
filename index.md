@@ -250,7 +250,7 @@ With `.btn-group-vertical`
 - Text with `.card-text` class
 
 <div class="card" style="width:18rem;">
-  <img src="images/BLM.jpg" class="card-imgtop" />
+  <img src="images/BLM.jpg" class="card-img-top" />
   <div class="card-body">
   <h5 class="card-title">Newest iPhone revealed</h5>
   <h6 class="card-subtitle">A unique experience</h6>
