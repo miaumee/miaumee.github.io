@@ -374,6 +374,11 @@ Use `.tooltip-test` class within `a` tag.
 
 <a href="#" class="tooltip-test" title="Can you see me? ;)">Hover on me to see surprises!</a>
 
+## Borders
+
+All borders need the `.border` class.
+{: .border}
+
 ## Cards
 
 - Outermost div requires `.card` class
