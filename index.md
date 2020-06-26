@@ -433,6 +433,8 @@ Images as links in Markdown
 [![BLM](/images/Gull.jpg)](#)
 [![BLM](/images/Gull.jpg)](#)
 [![BLM](/images/Gull.jpg)](#)
+[![BLM](/images/Gull.jpg)](#)
+[![BLM](/images/Gull.jpg)](#)
 
 With `.img-fluid` class:
 
