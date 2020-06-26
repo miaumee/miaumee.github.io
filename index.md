@@ -281,8 +281,10 @@ Use `active` class to highlight the default item
 
 ## Navigation Bar
 
+Use class `.navbar-dark` and `bg-...` for added visual depth
+
 <nav class="navbar navbar-dark bg-primary">
-  <a class="navbar-brand" href="#">Navbar w/ text</a>
+  <a class="navbar-brand" href="#">Navigation Bar</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -299,7 +301,7 @@ Use `active` class to highlight the default item
       </li>
     </ul>
     <span class="navbar-text">
-      Navbar text with an inline element
+      Just an inline text after buttons
     </span>
   </div>
 </nav>
