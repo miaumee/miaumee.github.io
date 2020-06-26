@@ -59,8 +59,8 @@ This paragraph is centered using `.text-center` class.
 This paragraph is aligned to the right using `.text-right` class.
 {: .text-right}
 
-## Heading 2 with `.text-primary`
-{: .text-primary}
+## Heading 2 with `{: .text-primary #abc style=""}`
+{: .text-primary #abc style=""}
 
 ### Heading 3
 
