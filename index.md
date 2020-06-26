@@ -163,9 +163,10 @@ This is `.alert-dark`
 
 ### `.lead` class
 
-<p class="lead">
-  Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.
-</p>
+Good as subheading description
+
+Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.
+{: .lead}
 
 ## Badges
 
