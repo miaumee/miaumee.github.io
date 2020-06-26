@@ -377,6 +377,8 @@ Type-A | Type-B | Type-C | Type-D | Type-E | Type-F | Type-G | Type-H
 John | Mary | Abraham | Becky | Carla | Duncan | Ernie | Fisher
 {: .table .table-responsive}
 
+## Form
+
 <form>
   <fieldset>
     <legend>A Very Cool Form</legend>
@@ -401,3 +403,10 @@ John | Mary | Abraham | Becky | Carla | Duncan | Ernie | Fisher
     <p><input type="button" value="Submit"></p>
   </fieldset>
 </form>
+
+### Switch
+
+<div class="custom-control custom-switch">
+  <input type="checkbox" class="custom-control-input" id="customSwitch1">
+  <label class="custom-control-label" for="customSwitch1">Activa Cache Browsing</label>
+</div>
