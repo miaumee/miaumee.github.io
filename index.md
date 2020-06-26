@@ -259,18 +259,24 @@ Use `active` class to highlight the default item
   
 ## Tabs
 
+<div class="row">
+<div class="col-4">
 <div class="list-group" role="tablist">
   <a class="list-group-item list-group-item-action active" data-toggle="list" href="#home" role="tab">Home</a>
   <a class="list-group-item list-group-item-action" data-toggle="list" href="#profile" role="tab">Profile</a>
   <a class="list-group-item list-group-item-action" data-toggle="list" href="#messages" role="tab">Messages</a>
   <a class="list-group-item list-group-item-action" data-toggle="list" href="#settings" role="tab">Settings</a>
 </div>
+  </div>
 
+<div class="col-8">
 <div class="tab-content">
   <div class="tab-pane active" id="home" role="tabpanel">Your home to every fancy stuff.</div>
   <div class="tab-pane" id="profile" role="tabpanel">Your name, address, email, and other miscellanies.</div>
   <div class="tab-pane" id="messages" role="tabpanel">Someone has sent you a message.</div>
   <div class="tab-pane" id="settings" role="tabpanel">Your configuration in more details.</div>
+</div>
+<\div>
 </div>
 
 ## Cards
