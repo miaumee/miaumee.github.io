@@ -65,7 +65,7 @@ For colored-background texts, use `bg-success` `.text-white` and the like.
 
 ## Paddings
 
-<span class="p-1 bg-primary text-white">.p-1 class</span> <span class="p-2 bg-secondary text-white">.p-2 class</span> <span class="p-3 bg-success text-white">.p-3 class</span> <span class="p-4 bg-warning text-white">.p-4 class</span> <span class="p-5 bg-danger text-white">.p-5 class</span> <span class="p-6 bg-info text-white">.p-6 class</span>
+<span class="p-1 bg-primary text-white">.p-1 class</span> <span class="p-2 bg-secondary text-white">.p-2 class</span> <span class="p-3 bg-success text-white">.p-3 class</span> <span class="p-4 bg-warning text-white">.p-4 class</span> <span class="p-5 bg-danger text-white">.p-5 class</span>
 
 ## Display options
 
@@ -75,6 +75,12 @@ Use `.d-block` to display as block.
 {: .d-block}
 
 Use `.d-none` to hide on all devices
+
+## Markdown
+
+To enable embedding Markdown in HTML, use `{::options parse_block_html="true" /}`.
+
+Disable embedding with `{::options parse_block_html="false" /}`.
 
 ## Text Alignment
 
