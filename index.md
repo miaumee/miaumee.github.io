@@ -67,9 +67,9 @@ For colored-background texts, use `bg-success` `.text-white` and the like.
 ## Display options
 
 Use `.d-inline` to display as inline.
-{: .d-inline .bg-primary}
+{: .d-inline .bg-primary .text-white}
 Use `.d-block` to display as block.
-{: .d-block .bg-secondary}
+{: .d-block .bg-secondary .text-white}
 
 Use `.d-none` to hide on all devices
 
