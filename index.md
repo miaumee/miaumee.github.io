@@ -220,10 +220,16 @@ Dog
 > But I ain't seen anything yet...
 
 > This is going to be from a separate paragraph with `.blockquote` class.
-{: .blockquote}
+{: .blockquote
 
-This is a .bd-callout paragraph. Check it out, because it's really really cool.
-{: .bd-callout .bd-callout-primary}
+<figure class="text-right">
+  <blockquote class="blockquote">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+  </blockquote>
+  <figcaption class="blockquote-footer">
+    Someone famous in <cite title="Source Title">Source Title</cite>
+  </figcaption>
+</figure>
 
 ## Colorboxes
 
