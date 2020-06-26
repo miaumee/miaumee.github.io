@@ -536,3 +536,7 @@ John | Mary | Abraham | Becky | Carla | Duncan | Ernie | Fisher
   <input type="file" class="custom-file-input" id="customFile">
   <label class="custom-file-label" for="customFile">Choose file</label>
 </div>
+
+<script>$(function () {
+  $('[data-toggle="popover"]').popover()
+})</script>
