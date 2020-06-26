@@ -429,9 +429,10 @@ Use `.tooltip-test` class within `a` tag.
 
 Images as links in Markdown
 
-[![BLM](/images/BLM.jpg)](#)
-[![BLM](/images/BLM.jpg)](#)
-[![BLM](/images/BLM.jpg)](#)
+[![BLM](/images/Gull.jpg)](#)
+[![BLM](/images/Gull.jpg)](#)
+[![BLM](/images/Gull.jpg)](#)
+[![BLM](/images/Gull.jpg)](#)
 
 With `.img-fluid` class:
 
