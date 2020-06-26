@@ -74,6 +74,8 @@ Use `.d-inline` to display as inline.
 Use `.d-block` to display as block.
 {: .d-block}
 
+Use `.d-none` to hide on all devices
+
 ## Text Alignment
 
 This paragraph is centered using `.text-center` class.
