@@ -382,6 +382,13 @@ All borders need the `.border` class.
 For colored borders, use `.border-primary` and the like.
 {: .border .border-primary}
 
+This is `.rounded`
+{: .border .border-secondary .rounded}
+This is `.rounded-circle`
+{: .border .border-secondary .rounded-circle}
+This is `.rounded-pill`
+{: .border .border-secondary .rounded-pill}
+
 ## Cards
 
 - Outermost div requires `.card` class
