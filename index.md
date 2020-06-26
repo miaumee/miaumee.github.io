@@ -244,8 +244,9 @@ With `.btn-group-vertical`
 
 <div class="list-group">
   <a class="list-group-item list-group-item-active">
-    
-    
+    <h5>How cool is Bootstrap?</h5>
+    <p>A standalone JS/CSS framework for creating responsive websites without bloat.</p>
+    <small>No really. And you should try it.</small>
   </a>
   <a class="list-group-item">
     
