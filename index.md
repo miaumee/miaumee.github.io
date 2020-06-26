@@ -222,6 +222,9 @@ Dog
 > This is going to be from a separate paragraph with `.blockquote` class.
 {: .blockquote}
 
+This is a .bd-callout paragraph. Check it out, because it's really really cool.
+{: .bd-callout .bd-callout-primary}
+
 ## Colorboxes
 
 The class `.alert` is needed for all alerts.
