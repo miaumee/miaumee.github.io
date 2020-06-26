@@ -245,7 +245,7 @@ With `.btn-group-vertical`
 Use `active` class to highlight the default item
 
 <div class="list-group">
-  <a class="list-group-item list-group-item-action active">
+  <a class="list-group-item list-group-item-action active" role="list">
     <h5>How cool is Bootstrap?</h5>
     <p>A standalone JS/CSS framework for creating responsive websites without bloat.</p>
     <small>No really. And you should try it.</small>
