@@ -222,7 +222,7 @@ Dog
 > This is going to be from a separate paragraph with `.blockquote` class.
 {: .blockquote}
 
-<figure class="text-right">
+<figure>
   <blockquote class="blockquote">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
   </blockquote>
