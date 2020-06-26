@@ -4,11 +4,9 @@ title: The World of Mathematics
 ---
 
 <script>
-$(document).ready(function(){
-  $('[data-toggle="popover"]').popover();
-});
-  $(function () {
-  $('[data-toggle="tooltip"]').tooltip()
+var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-toggle="tooltip"]'))
+var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+  return new bootstrap.Tooltip(tooltipTriggerEl)
 })
 </script>
 
