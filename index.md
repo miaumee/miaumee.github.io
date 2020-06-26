@@ -271,10 +271,10 @@ Use `active` class to highlight the default item
 
 <div class="col-8">
 <div class="tab-content">
-  <div class="tab-pane active" id="home" role="tabpanel">Your home to every fancy stuff.</div>
-  <div class="tab-pane" id="profile" role="tabpanel">Your name, address, email, and other miscellanies.</div>
-  <div class="tab-pane" id="messages" role="tabpanel">Someone has sent you a message.</div>
-  <div class="tab-pane" id="settings" role="tabpanel">Your configuration in more details.</div>
+  <div class="tab-pane show active" id="home" role="tabpanel">Your home to every fancy stuff.</div>
+  <div class="tab-pane face" id="profile" role="tabpanel">Your name, address, email, and other miscellanies.</div>
+  <div class="tab-pane fade" id="messages" role="tabpanel">Someone has sent you a message.</div>
+  <div class="tab-pane fade" id="settings" role="tabpanel">Your configuration in more details.</div>
 </div>
 </div>
 </div>
