@@ -419,3 +419,10 @@ John | Mary | Abraham | Becky | Carla | Duncan | Ernie | Fisher
   <option value="2">Windows 2000</option>
   <option value="3">Windows XP</option>
 </select>
+
+### Upload Menu
+
+<div class="custom-file">
+  <input type="file" class="custom-file-input" id="customFile">
+  <label class="custom-file-label" for="customFile">Choose file</label>
+</div>
