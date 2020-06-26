@@ -2,6 +2,11 @@
 layout: default
 title: The World of Mathematics
 ---
+<script>
+$(function () {
+  $('[data-toggle="popover"]').popover()
+})
+</script>
 
 # The World of Mathematics
 
