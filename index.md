@@ -223,7 +223,7 @@ Dog
 {: .blockquote}
 
 Alright. For this paragraph we're going to customize it into a callout as inspired by Bootstrap.
-{: style="padding: 1.25rem;margin-top: 1.25rem;margin-bottom: 1.25rem;border: 1px solid #e9ecef;border-left-width: .25rem;border-radius: .25rem;}
+{: style="padding: 1.25rem;margin-top: 1.25rem;margin-bottom: 1.25rem;border: 1px solid #e9ecef;border-left-width: .25rem;border-radius: .25rem;"}
 
 <figure>
   <blockquote class="blockquote">
