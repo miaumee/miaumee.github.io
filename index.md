@@ -242,13 +242,15 @@ With `.btn-group-vertical`
 
 ## List Groups
 
+Use `active` class to highlight the default item
+
 <div class="list-group">
-  <a class="list-group-item list-group-item-active">
+  <a class="list-group-item list-group-item-action active">
     <h5>How cool is Bootstrap?</h5>
     <p>A standalone JS/CSS framework for creating responsive websites without bloat.</p>
     <small>No really. And you should try it.</small>
   </a>
-  <a class="list-group-item">
+  <a class="list-group-item list-group-item-action">
      <h5>How cool is HTML5 Boilerplate?</h5>
     <p>A standalone HTML framework for creating responsive websites without bloat.</p>
     <small>Yes. It's a higher-level framework. But awesome nevertheless.</small>
