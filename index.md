@@ -379,6 +379,9 @@ Use `.tooltip-test` class within `a` tag.
 All borders need the `.border` class.
 {: .border}
 
+For colored borders, use `.border-primary` and the like.
+{: .border .border-primary}
+
 ## Cards
 
 - Outermost div requires `.card` class
