@@ -2,10 +2,11 @@
 layout: default
 title: The World of Mathematics
 ---
+
 <script>
-$(function () {
-  $('[data-toggle="popover"]').popover()
-})
+$(document).ready(function(){
+  $('[data-toggle="popover"]').popover();
+});
 </script>
 
 # The World of Mathematics
@@ -339,6 +340,12 @@ Use class `.navbar-dark` and `bg-...` for added visual depth
 
 <button type="button" class="btn btn-lg btn-danger" data-toggle="popover" title="Popover title" data-content="And here's some amazing content. It's very engaging. Right?">Click to toggle popover</button>
 
+## Fancy Spinner
+
+<div class="spinner-grow text-primary" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+
 ## Tooltips
 
 Use `.tooltip-test` class within `a` tag.
@@ -541,9 +548,3 @@ John | Mary | Abraham | Becky | Carla | Duncan | Ernie | Fisher
   <input type="file" class="custom-file-input" id="customFile">
   <label class="custom-file-label" for="customFile">Choose file</label>
 </div>
-
-<script>
-$(document).ready(function(){
-  $('[data-toggle="popover"]').popover();
-});
-</script>
