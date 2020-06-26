@@ -330,6 +330,10 @@ Use class `.navbar-dark` and `bg-...` for added visual depth
    </div>
 </div>
 
+## Popover
+
+<button type="button" class="btn btn-lg btn-danger" data-toggle="popover" title="Popover title" data-content="And here's some amazing content. It's very engaging. Right?">Click to toggle popover</button>
+
 ## Tooltips
 
 Use `.tooltip-test` class within `a` tag.
